@@ -10,5 +10,5 @@ package proyectobranch;
  * @author Brais
  */
 public class Experiment {
-    
+    double num4;
 }
