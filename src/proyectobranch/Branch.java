@@ -7,4 +7,5 @@ package proyectobranch;
  */
 public class Branch {
      private double num3;
+     private double num4;
 }
