@@ -10,4 +10,5 @@ public class Branch {
      private double num4;
      private double num5;
      private int num6;
+     private double num7;
 }
