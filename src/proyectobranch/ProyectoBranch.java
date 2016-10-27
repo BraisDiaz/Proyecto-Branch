@@ -14,6 +14,7 @@ public class ProyectoBranch {
        
         double num1;
         double num2;
+        double num3;
     }
     
 }
